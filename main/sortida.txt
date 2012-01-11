@@ -1,0 +1,23 @@
+
+Nom Imatge		Classe real		Classe assignada
+/Users/boyander/Desktop/assaig/13-0.jpg				0					0
+/Users/boyander/Desktop/assaig/13-1.jpg				0					0
+/Users/boyander/Desktop/assaig/13-2.jpg				1					0
+/Users/boyander/Desktop/assaig/21-0.jpg				1					0
+/Users/boyander/Desktop/assaig/21-1.jpg				0					0
+/Users/boyander/Desktop/assaig/21-2.jpg				1					0
+/Users/boyander/Desktop/assaig/22-0.jpg				1					0
+/Users/boyander/Desktop/assaig/22-1.jpg				1					0
+/Users/boyander/Desktop/assaig/22-2.jpg				0					0
+/Users/boyander/Desktop/assaig/41-0.jpg				0					1
+/Users/boyander/Desktop/assaig/41-1.jpg				1					0
+/Users/boyander/Desktop/assaig/41-2.jpg				1					0
+/Users/boyander/Desktop/assaig/42-0.jpg				0					0
+/Users/boyander/Desktop/assaig/42-1.jpg				0					0
+/Users/boyander/Desktop/assaig/42-2.jpg				1					0
+/Users/boyander/Desktop/assaig/43-0.jpg				0					0
+/Users/boyander/Desktop/assaig/43-1.jpg				0					1
+/Users/boyander/Desktop/assaig/43-2.jpg				0					0
+
+La precisió és:	0.800000
+El record és:	1.000000

@@ -1,0 +1,5 @@
+function [ precision, recall ] = precision_recall(fd,fn,td)
+precision=td/(td+fd);
+recall=td/(td+fn);
+end
+

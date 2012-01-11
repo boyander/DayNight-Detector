@@ -16,7 +16,7 @@ extracting image descriptors like Luma Average, Color Temperature Average, Hue a
 Contributors
 ------------
 * [Marc Pomar Torres] - [@boyander] -  boyander@gmail.com
-* [Victor Hidalgo Lorenzo] - boyander@gmail.com
+* [Victor Hidalgo Lorenzo]
 * [Eneas Castán Victor] 
 * [Alberto Esteban Perez]
 
